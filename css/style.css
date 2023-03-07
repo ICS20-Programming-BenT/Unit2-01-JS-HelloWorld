@@ -5,14 +5,14 @@
 */
 
 body {
-	background-color: violet;
+  background-color: violet;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
   background-color: rgb(16 0 43);
   color: hsl(274deg 100% 75%);
-	padding: 40px;
+  padding: 40px;
   text-align: center;
   font-weight: 900;
 }
